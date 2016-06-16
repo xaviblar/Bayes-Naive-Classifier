@@ -1,0 +1,38 @@
+﻿
+
+Evaluation Warning : The document was created with Spire.Doc for .NET.
+Weekly Project Report
+
+Number: 1
+Date: 2016-03-04
+Project Name: STUDENT RECORD
+Status:
+On track
+General Comments:
+This week's goals were to set up the development environment, to investigate about different technologies used in the project (Grunt, MeanJS, etc.) and to solve the inherited errors that were present in the original project.
+
+Problems:
+The group responsible for the project in its second phase (last semester) did not document the errors present in the application, neither documented the versions of each framework and libraries used (Grunt, MeanJS, NodeJS, AngularJS, MongoDB), therefore solving this errors is considerably hard due to this lack of proper documentation.
+
+Pending issues:
+Some errors have not been solved yet: An error with the recognition of JQuery, a few errors due different syntax in the current version.
+
+Risks:
+* Not being able to solve all the errors would mean to take the project back to an older state.
+* The Server where the application was hosted has been taken down, new hosting facilities could be required.
+
+Detail:
+The development environment has been successfully prepared in a virtual machine, investigation about technologies used has given results, several errors have been solved: An error with the recognition of JSPDF, some of the syntax changed errors and several errors due to the lack of some Grunt and NPM packages and dependencies that were not documented by the last group.
+Project is on time.
+Metrics 
+Original End date
+June 17th, 2016
+% Completed up as today:
+5 %
+Estimated end date:
+June 17th, 2016
+Deviation (hours):
+12 hours per person, 36 hours all team
+
+2
+PM-FO-003 Client Weekly Report Form.doc
